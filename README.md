@@ -8,6 +8,10 @@ Text-to-Speech Conversion: Convert the processed text into speech with pyttsx3, 
 To run the NLTK PDF Player, ensure the following Python libraries are installed:
 
 tkinter: For building the graphical user interface. (Included with Python standard library)
-PyPDF2: For extracting text from PDF files.
-nltk: For processing text and sentence tokenization.
-pyttsx3: For text-to-speech conversion.
+<hr>
+
+PyPDF2: For extracting text from PDF files.<hr>
+
+nltk: For processing text and sentence tokenization.<hr>
+
+pyttsx3: For text-to-speech conversion.<hr>
